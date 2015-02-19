@@ -1,0 +1,5 @@
+*~
+*.py[cod]
+config/*
+!config/drupal8.example.yml
+
